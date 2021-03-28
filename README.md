@@ -1,2 +1,3 @@
-# vim_configuration_file
-My customized .vimrc
+# vimrc
+
+My simple .vimrc configuration.
